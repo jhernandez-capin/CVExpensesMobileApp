@@ -40,6 +40,14 @@
 	<array>
 		<string>arm64</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>$(PRODUCT_NAME) necesita acceso a la cámara para capturar sus recibos y facturas.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>$(PRODUCT_NAME) utiliza FaceID para proteger sus datos financieros.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>$(PRODUCT_NAME) necesita acceso al micrófono.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>$(PRODUCT_NAME) necesita acceso a su galería para subir documentos guardados.</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
